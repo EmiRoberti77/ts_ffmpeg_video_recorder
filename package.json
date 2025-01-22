@@ -1,0 +1,36 @@
+{
+  "name": "vmind_ffmpeg",
+  "version": "1.0.0",
+  "description": "library to record rtsp video.  ffmpeg integration",
+  "main": "dist/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmiRoberti77/ts_ffmpeg_video_recorder.git"
+  },
+  "keywords": [
+    "ffmpeg",
+    "typescript",
+    "video",
+    "recording",
+    "http",
+    "rtsp",
+    "video_recording",
+    "live",
+    "video",
+    "streams"
+  ],
+  "author": "Emi Roberti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmiRoberti77/ts_ffmpeg_video_recorder/issues"
+  },
+  "homepage": "https://github.com/EmiRoberti77/ts_ffmpeg_video_recorder#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
